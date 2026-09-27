@@ -1,3 +1,8 @@
+---
+name: aigc-prompt-kit
+description: "AIGC Prompt Kit · 运镜与一致性元 Skill。提供 143 个精确运镜/视觉技法术语（运镜/剪辑/特效/构图/风格五大类）、一致性锁三件套（Token+继承/不继承+全局 Not Do，含角色/产品/品牌锁定模板）、四块骨架方法论（全局+固定+时间轴+约束）与 28 项交付质检清单。Use when 用户要写、改写、评审任何 AIGC 视频提示词（Seedance / 即梦 / Kling / Veo / Wan / Sora），或者需要精确运镜术语、跨镜头角色/产品/品牌一致性锁定、提示词质检自查。中文触发词: AIGC 提示词, 视频提示词, 运镜, 镜头运动, 一致性, 角色锁定, 产品锁定, 品牌一致性, 质检清单, 提示词模板, prompt, camera movement, camera move, consistency lock, dolly, pan, tilt, whip pan, FPV, Dutch angle, Central Framing, Product shot, 逐秒分镜, 时间轴分镜, 分镜脚本. 参考 seedance-prompt-library 等主题 skill 使用。"
+---
+
 # AIGC Prompt Kit · 运镜与一致性元 Skill
 
 **一句话定位：** 这是给「任何视频 AIGC 提示词写作」用的公共层。它不替你做具体影片，而是提供三样可复用的硬通货——**精确运镜词汇表、一致性锁方法、可核对质检清单**。

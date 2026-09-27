@@ -3,6 +3,9 @@
 .DS_Store
 Thumbs.db
 
+# 忽略打包产物（发布包用 GitHub Releases 分发）
+*.zip
+
 # 忽略抓取的原始 HTML（保留在本地，不进仓库）
 eyecannndy_*.html
 
