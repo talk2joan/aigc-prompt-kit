@@ -1,0 +1,26 @@
+# 忽略临时文件
+*.artifact.json
+.DS_Store
+Thumbs.db
+
+# 忽略抓取的原始 HTML（保留在本地，不进仓库）
+eyecannndy_*.html
+
+# 忽略本地生成图片
+*.png
+*.jpg
+*.jpeg
+!README.md
+
+# 忽略 IDE
+.vscode/
+.idea/
+
+# 忽略 Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 忽略 Node
+node_modules/
